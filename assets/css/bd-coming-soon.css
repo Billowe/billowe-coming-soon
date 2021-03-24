@@ -1,6 +1,9 @@
 body {
+  
+  background-color: #5533ff;
+
   font-family: 'Karla', sans-serif;
-  background-color: #4c0459;
+  background: linear-gradient(187deg, #5533ff 20%, #bfabff 195%);
   color: #ffffff;
   padding-bottom: 75px; }
   @media (max-width: 767px) {
