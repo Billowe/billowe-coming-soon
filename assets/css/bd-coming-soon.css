@@ -1,8 +1,8 @@
 body {
   
-  background-color: #5533ff;
-  font-family: 'Karla', sans-serif;
-  background: linear-gradient(187deg, #5533ff 20%, #bfabff 195%);
+  background-color: #0068ff;
+  font-family: 'Roboto', sans-serif;
+  background: linear-gradient(112deg, rgba(179,211,255,1) 5%, rgba(0,104,255,1) 88%);
   color: #ffffff;
   padding-bottom: 75px; }
   @media (max-width: 767px) {
